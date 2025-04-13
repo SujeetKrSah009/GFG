@@ -1,5 +1,3 @@
-public class Day_03_ReverseTheArray {
-    
     /**
      * Day 3: Reverse the Array
      *
@@ -15,6 +13,10 @@ public class Day_03_ReverseTheArray {
      * - Output: The reversed array (e.g., [5, 4, 3, 2, 1]).
      * - Algorithm Complexity: O(n) for a single traversal of the array.
      */
+    
+public class Day_03_ReverseTheArray {
+    
+
     public static void reverseArray(int[] arr) {
  
         int n = arr.length;
